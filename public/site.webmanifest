@@ -1,0 +1,13 @@
+{
+  "name": "Tamjid Hossain — Sociology Portfolio",
+  "short_name": "TH Portfolio",
+  "description": "MA Sociology graduate — Freie Universität Berlin. Research, migration, policy analysis.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563EB",
+  "lang": "de",
+  "icons": [
+    { "src": "favicon.ico", "sizes": "any", "type": "image/x-icon" }
+  ]
+}

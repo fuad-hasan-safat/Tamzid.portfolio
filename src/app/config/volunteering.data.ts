@@ -1,0 +1,48 @@
+import { VolunteerExperience } from '../core/models';
+
+export const VOLUNTEERING: VolunteerExperience[] = [
+  {
+    id: 'refugee-mentor',
+    role: 'Refugee Integration Mentor',
+    organization: 'Willkommen in Berlin e.V.',
+    location: 'Berlin, Germany',
+    startDate: 'Sep 2020',
+    endDate: 'present',
+    description: 'One-to-one mentoring support for newly arrived refugees, helping with administrative procedures, language practice, job applications, and navigating the German education system.',
+    impact: 'Supported 8 individuals over 3 years in achieving language certification, entering education or employment, and building social networks.',
+    skills: ['Mentoring', 'Cross-cultural Communication', 'Counselling', 'Case Management'],
+  },
+  {
+    id: 'diversity-board',
+    role: 'Student Diversity Representative',
+    organization: 'Freie Universität Berlin — AStA (Student Union)',
+    location: 'Berlin, Germany',
+    startDate: 'Oct 2021',
+    endDate: 'Sep 2022',
+    description: 'Elected representative for diversity and inclusion within the student union. Developed initiatives for international and first-generation students and coordinated intercultural events.',
+    impact: 'Organised 4 intercultural dialogue events reaching 200+ participants. Contributed to the university\'s new Diversity Strategy 2023–2027.',
+    skills: ['Diversity & Inclusion', 'Event Organisation', 'Policy Advocacy', 'Community Building'],
+  },
+  {
+    id: 'un-youth',
+    role: 'Youth Delegate — Model United Nations',
+    organization: 'Global Young Leaders Academy',
+    location: 'Geneva, Switzerland (Remote)',
+    startDate: 'Jan 2021',
+    endDate: 'Mar 2021',
+    description: 'Represented a delegated nation at an online Model UN simulation on migration and development, drafting resolutions and negotiating with delegations from 40+ countries.',
+    impact: 'Resolution co-authored was adopted by the committee. Best Delegate Award nominee.',
+    skills: ['Negotiation', 'International Relations', 'Public Speaking', 'Diplomacy'],
+  },
+  {
+    id: 'food-bank',
+    role: 'Community Food Bank Volunteer',
+    organization: 'Berliner Tafel e.V.',
+    location: 'Berlin, Germany',
+    startDate: 'Mar 2020',
+    endDate: 'Dec 2020',
+    description: 'Regular volunteer at a community food bank during the COVID-19 pandemic, coordinating food distribution and offering language support to non-German-speaking visitors.',
+    impact: 'Contributed 200+ hours during the pandemic, supporting 50+ families per distribution day.',
+    skills: ['Community Service', 'Language Mediation', 'Logistics', 'Empathy'],
+  },
+];

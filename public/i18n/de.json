@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "education": "Ausbildung",
+    "research": "Forschung",
+    "experience": "Erfahrung",
+    "projects": "Projekte",
+    "publications": "Publikationen",
+    "skills": "Fähigkeiten",
+    "languages": "Sprachen",
+    "certificates": "Zertifikate",
+    "volunteering": "Ehrenamt",
+    "blog": "Blog",
+    "contact": "Kontakt",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "toggleTheme": "Design wechseln",
+    "switchLanguage": "Sprache wechseln"
+  },
+  "hero": {
+    "badge": "Offen für Stellen · Sofort verfügbar",
+    "location": "Berlin, Deutschland",
+    "cta": {
+      "downloadCv": "Lebenslauf herunterladen",
+      "contact": "Kontakt aufnehmen",
+      "linkedin": "LinkedIn",
+      "email": "E-Mail senden"
+    },
+    "scrollHint": "Nach unten scrollen"
+  },
+  "about": {
+    "title": "Über mich",
+    "subtitle": "Soziologe · Forscher · Policy-Analyst",
+    "summary": "Ich bin Absolvent der Soziologie an der Freien Universität Berlin mit fundierter Expertise in sozialwissenschaftlicher Forschung, Politikanalyse und gesellschaftlichem Engagement. Meine akademische Arbeit konzentriert sich auf Migration, Integration, soziale Ungleichheit und das Zusammenspiel von Politik und gelebter Erfahrung.",
+    "academic": "Akademisch interessieren mich Fragen der Zugehörigkeit, der gesellschaftlichen Teilhabe und der strukturellen Bedingungen, die individuelle Lebensverläufe prägen – insbesondere für Migrant:innen, Geflüchtete und Minderheitsgemeinschaften im heutigen Deutschland und Europa.",
+    "career": "Ich strebe danach, meine Expertise in einer angewandten Forschungs-, Koordinations- oder HR- & Diversitätsfunktion bei einem Think Tank, einer internationalen Organisation, Universität, NGO oder öffentlichen Institution einzubringen.",
+    "values": "Ich glaube an rigorose, ethische und zugängliche Forschung. Ich setze mich dafür ein, disziplinen- und kulturübergreifend zu arbeiten, unterrepräsentierte Stimmen sichtbar zu machen und Arbeit zu leisten, die sowohl wissenschaftlich fundiert als auch praktisch relevant ist.",
+    "expertise": "Kernkompetenzen",
+    "expertiseItems": [
+      "Sozialwissenschaftliche Forschungsdesigns",
+      "Politikanalyse & -schreiben",
+      "Migration & Integration",
+      "Diversity & Inclusion",
+      "Monitoring & Evaluation",
+      "Stakeholder-Management",
+      "Akademisches & Antragschreiben",
+      "Interkulturelle Kommunikation"
+    ]
+  },
+  "education": {
+    "title": "Ausbildung",
+    "subtitle": "Akademische Ausbildung an der Freien Universität Berlin",
+    "thesis": "Masterarbeit",
+    "supervisor": "Betreuung",
+    "grade": "Note",
+    "coursework": "Relevante Lehrveranstaltungen",
+    "graduated": "Abschluss"
+  },
+  "research": {
+    "title": "Forschungsinteressen",
+    "subtitle": "Bereiche wissenschaftlicher Beschäftigung und Expertise",
+    "methods": "Forschungsmethoden",
+    "methodsSubtitle": "Methodisches Repertoire für evidenzbasierte Forschung",
+    "qualitative": "Qualitative Methoden",
+    "quantitative": "Quantitative Methoden",
+    "mixed": "Mixed Methods & Evaluation",
+    "currentInterest": "Aktueller Schwerpunkt"
+  },
+  "experience": {
+    "title": "Berufserfahrung",
+    "subtitle": "Professionelle und akademische Stationen",
+    "achievements": "Wichtige Erfolge",
+    "responsibilities": "Aufgaben",
+    "skills": "Angewendete Kompetenzen",
+    "kpis": "Impact"
+  },
+  "projects": {
+    "title": "Projekte",
+    "subtitle": "Forschungs-, Policy- und Gemeinschaftsprojekte",
+    "filter": {
+      "all": "Alle",
+      "research": "Forschung",
+      "policy": "Policy",
+      "community": "Community",
+      "academic": "Akademisch"
+    },
+    "methodology": "Methodik",
+    "outcome": "Ergebnis",
+    "impact": "Wirkung",
+    "tools": "Software & Tools",
+    "viewAll": "Alle Projekte anzeigen"
+  },
+  "publications": {
+    "title": "Publikationen",
+    "subtitle": "Wissenschaftliche Arbeiten, Working Papers & Artikel",
+    "filter": {
+      "all": "Alle",
+      "thesis": "Abschlussarbeit",
+      "paper": "Paper",
+      "article": "Artikel",
+      "working-paper": "Working Paper",
+      "conference": "Konferenz"
+    },
+    "abstract": "Abstract",
+    "keywords": "Schlagwörter",
+    "doi": "DOI",
+    "downloadPdf": "PDF herunterladen",
+    "viewOnline": "Online ansehen"
+  },
+  "skills": {
+    "title": "Fähigkeiten",
+    "subtitle": "Berufliche Kompetenzen und technisches Repertoire",
+    "categories": {
+      "research": "Forschung & Schreiben",
+      "methodology": "Forschungsmethoden",
+      "software": "Software & Tools",
+      "interpersonal": "Soziale Kompetenzen"
+    },
+    "levels": {
+      "beginner": "Anfänger",
+      "elementary": "Grundkenntnisse",
+      "intermediate": "Mittelstufe",
+      "advanced": "Fortgeschritten",
+      "expert": "Experte"
+    }
+  },
+  "languages": {
+    "title": "Sprachen",
+    "subtitle": "Mehrsprachige Kommunikation in Forschung und Beruf",
+    "cefr": "GER-Niveaus",
+    "cefrDesc": "Der Gemeinsame Europäische Referenzrahmen für Sprachen (GER) definiert sechs Kompetenzstufen von A1 (Anfänger) bis C2 (Kompetente Sprachverwendung).",
+    "native": "Muttersprache"
+  },
+  "certificates": {
+    "title": "Zertifikate",
+    "subtitle": "Berufliche Weiterbildung und Qualifizierungen",
+    "filter": "Nach Kategorie filtern",
+    "issued": "Ausgestellt",
+    "verify": "Zertifikat verifizieren"
+  },
+  "volunteering": {
+    "title": "Ehrenamt",
+    "subtitle": "Gesellschaftliches Engagement und Gemeinschaftsarbeit",
+    "impact": "Wirkung",
+    "skills": "Kompetenzen"
+  },
+  "testimonials": {
+    "title": "Referenzen",
+    "subtitle": "Was Kolleg:innen, Betreuer:innen und Partner sagen"
+  },
+  "stats": {
+    "yearsStudy": "Jahre Studium",
+    "researchProjects": "Forschungsprojekte",
+    "publications": "Publikationen",
+    "languagesSpoken": "Gesprochene Sprachen",
+    "volunteerHours": "Ehrenamtsstunden"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Forschungseinblicke, Policy-Kommentare und akademische Reflexionen",
+    "readMore": "Artikel lesen",
+    "readingTime": "{{count}} Min. Lesezeit",
+    "categories": "Kategorien",
+    "allPosts": "Alle Beiträge",
+    "featured": "Empfohlen"
+  },
+  "contact": {
+    "title": "Kontakt aufnehmen",
+    "subtitle": "Offen für Forschungskooperationen, Projektstellen und Beratungsmandate in Deutschland und Europa.",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Nachricht senden",
+      "sending": "Wird gesendet…",
+      "success": "Ihre Nachricht wurde gesendet. Ich melde mich innerhalb von zwei Werktagen.",
+      "error": "Etwas ist schiefgelaufen. Bitte erneut versuchen oder direkt per E-Mail Kontakt aufnehmen.",
+      "required": "Dieses Feld ist erforderlich",
+      "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "minLength": "Die Nachricht muss mindestens 20 Zeichen lang sein"
+    },
+    "info": {
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "location": "Standort",
+      "linkedin": "LinkedIn",
+      "orcid": "ORCID",
+      "researchGate": "ResearchGate",
+      "googleScholar": "Google Scholar"
+    },
+    "availability": "Aktuell offen für neue Stellen – Berlin-basiert & remote-freundlich."
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "built": "Erstellt mit",
+    "quickLinks": "Schnellnavigation",
+    "connect": "Vernetzen",
+    "legal": "Rechtliches",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz"
+  },
+  "common": {
+    "present": "heute",
+    "downloadCv": "Lebenslauf herunterladen",
+    "learnMore": "Mehr erfahren",
+    "viewProject": "Projekt ansehen",
+    "backToTop": "Nach oben",
+    "darkMode": "Dunkelmodus",
+    "lightMode": "Hellmodus",
+    "language": "Sprache",
+    "skipToContent": "Zum Hauptinhalt springen",
+    "loading": "Wird geladen…",
+    "noResults": "Keine Ergebnisse gefunden.",
+    "openExternalLink": "Öffnet in neuem Tab"
+  }
+}

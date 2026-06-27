@@ -1,0 +1,100 @@
+import { ResearchInterest } from '../core/models';
+
+export const RESEARCH_INTERESTS: ResearchInterest[] = [
+  {
+    id: 'migration',
+    title: 'Migration & Mobility',
+    description: 'Examining patterns of international and internal migration, forced displacement, and the social conditions shaping migrant trajectories in contemporary Europe.',
+    methods: ['Ethnography', 'Life History Interviews', 'Secondary Data Analysis'],
+    icon: 'globe',
+    color: 'blue',
+  },
+  {
+    id: 'integration',
+    title: 'Integration & Social Cohesion',
+    description: 'Analysing how host societies and migrants co-create conditions for inclusion, participation, and belonging across urban contexts in Germany and the EU.',
+    methods: ['Semi-structured Interviews', 'Focus Groups', 'Comparative Case Study'],
+    icon: 'users',
+    color: 'indigo',
+  },
+  {
+    id: 'social-inequality',
+    title: 'Social Inequality',
+    description: 'Investigating structural inequalities related to class, race, ethnicity, and migration status in access to education, housing, and the labour market.',
+    methods: ['Regression Analysis', 'Survey Research', 'Content Analysis'],
+    icon: 'bar-chart-2',
+    color: 'violet',
+  },
+  {
+    id: 'labour-market',
+    title: 'Labour Market & Work',
+    description: 'Studying labour market integration, precarious employment, skills recognition, and barriers faced by migrants and marginalised groups in Germany.',
+    methods: ['Statistical Analysis', 'Survey Design', 'Document Analysis'],
+    icon: 'briefcase',
+    color: 'slate',
+  },
+  {
+    id: 'gender',
+    title: 'Gender & Intersectionality',
+    description: 'Exploring gendered dimensions of migration, the intersection of gender with race and class, and feminist approaches to social research.',
+    methods: ['Discourse Analysis', 'Intersectional Framework', 'Qualitative Interviews'],
+    icon: 'award',
+    color: 'pink',
+  },
+  {
+    id: 'public-policy',
+    title: 'Public Policy & Governance',
+    description: 'Evaluating the design, implementation, and impact of immigration, integration, and social welfare policies at local, national, and EU level.',
+    methods: ['Policy Analysis', 'Comparative Method', 'Expert Interviews'],
+    icon: 'landmark',
+    color: 'emerald',
+  },
+  {
+    id: 'digital-society',
+    title: 'Digital Society',
+    description: 'Exploring digitalisation as a social phenomenon: digital exclusion, algorithmic discrimination, and the role of digital platforms in migration.',
+    methods: ['Online Ethnography', 'Digital Methods', 'Interviews'],
+    icon: 'monitor',
+    color: 'cyan',
+  },
+  {
+    id: 'european-studies',
+    title: 'European Integration',
+    description: 'Analysing EU migration governance, the free movement regime, and how European institutions shape national migration and integration policies.',
+    methods: ['Comparative Policy Analysis', 'Legislative Analysis', 'Process Tracing'],
+    icon: 'map',
+    color: 'amber',
+  },
+  {
+    id: 'education',
+    title: 'Education & Social Mobility',
+    description: 'Studying educational inequalities, school segregation, and the role of education in facilitating or blocking social mobility for migrant children.',
+    methods: ['Multi-level Analysis', 'PISA Data', 'School Ethnography'],
+    icon: 'graduation-cap',
+    color: 'teal',
+  },
+];
+
+export const RESEARCH_METHODS = {
+  qualitative: [
+    { name: 'Semi-structured Interviews', icon: 'message-circle' },
+    { name: 'Focus Groups', icon: 'users' },
+    { name: 'Ethnography', icon: 'eye' },
+    { name: 'Grounded Theory', icon: 'git-branch' },
+    { name: 'Content & Discourse Analysis', icon: 'file-text' },
+    { name: 'Case Study', icon: 'layers' },
+  ],
+  quantitative: [
+    { name: 'Survey Design & Analysis', icon: 'bar-chart' },
+    { name: 'Descriptive Statistics', icon: 'activity' },
+    { name: 'Regression Analysis', icon: 'trending-up' },
+    { name: 'Secondary Data Analysis', icon: 'database' },
+    { name: 'SPSS & R', icon: 'cpu' },
+  ],
+  mixed: [
+    { name: 'Sequential Explanatory Design', icon: 'arrow-right' },
+    { name: 'Policy Evaluation', icon: 'check-circle' },
+    { name: 'Comparative Research', icon: 'columns' },
+    { name: 'Monitoring & Evaluation', icon: 'target' },
+  ],
+};

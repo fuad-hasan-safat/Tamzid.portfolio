@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "education": "Education",
+    "research": "Research",
+    "experience": "Experience",
+    "projects": "Projects",
+    "publications": "Publications",
+    "skills": "Skills",
+    "languages": "Languages",
+    "certificates": "Certificates",
+    "volunteering": "Volunteering",
+    "blog": "Blog",
+    "contact": "Contact",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "toggleTheme": "Toggle theme",
+    "switchLanguage": "Switch language"
+  },
+  "hero": {
+    "badge": "Open to Work · Immediately Available",
+    "location": "Berlin, Germany",
+    "cta": {
+      "downloadCv": "Download CV",
+      "contact": "Get in Touch",
+      "linkedin": "LinkedIn",
+      "email": "Send Email"
+    },
+    "scrollHint": "Scroll to explore"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Sociologist · Researcher · Policy Analyst",
+    "summary": "I am a graduate sociologist from Freie Universität Berlin with a strong foundation in social research, policy analysis, and community engagement. My academic work focuses on migration, integration, social inequality, and the intersection of policy with lived experience.",
+    "academic": "Academically, I am drawn to questions of belonging, civic participation, and how structural conditions shape individual trajectories — particularly for migrants, refugees, and minority communities in contemporary Germany and Europe.",
+    "career": "I aspire to contribute my expertise in an applied research, policy coordination, or HR & diversity role within a think tank, international organisation, university, NGO, or public institution where evidence-based thinking genuinely shapes outcomes.",
+    "values": "I believe in rigorous, ethical, and accessible research. I am committed to working across disciplinary and cultural boundaries, to elevating underrepresented voices, and to producing work that is both intellectually sound and practically relevant.",
+    "expertise": "Areas of Expertise",
+    "expertiseItems": [
+      "Social Research Design",
+      "Policy Analysis & Writing",
+      "Migration & Integration",
+      "Diversity & Inclusion",
+      "Monitoring & Evaluation",
+      "Stakeholder Engagement",
+      "Academic & Grant Writing",
+      "Intercultural Communication"
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "subtitle": "Academic training at Freie Universität Berlin",
+    "thesis": "Master's Thesis",
+    "supervisor": "Supervisor",
+    "grade": "Grade",
+    "coursework": "Relevant Coursework",
+    "graduated": "Graduated"
+  },
+  "research": {
+    "title": "Research Interests",
+    "subtitle": "Areas of scholarly inquiry and expertise",
+    "methods": "Research Methods",
+    "methodsSubtitle": "Methodological toolkit for evidence-based inquiry",
+    "qualitative": "Qualitative Methods",
+    "quantitative": "Quantitative Methods",
+    "mixed": "Mixed Methods & Evaluation",
+    "currentInterest": "Current interest"
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Professional and academic roles shaping my practice",
+    "achievements": "Key Achievements",
+    "responsibilities": "Responsibilities",
+    "skills": "Skills Applied",
+    "kpis": "Impact"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Research, policy and community initiatives",
+    "filter": {
+      "all": "All",
+      "research": "Research",
+      "policy": "Policy",
+      "community": "Community",
+      "academic": "Academic"
+    },
+    "methodology": "Methodology",
+    "outcome": "Outcome",
+    "impact": "Impact",
+    "tools": "Tools & Software",
+    "viewAll": "View All Projects"
+  },
+  "publications": {
+    "title": "Publications",
+    "subtitle": "Academic papers, working papers & articles",
+    "filter": {
+      "all": "All",
+      "thesis": "Thesis",
+      "paper": "Paper",
+      "article": "Article",
+      "working-paper": "Working Paper",
+      "conference": "Conference"
+    },
+    "abstract": "Abstract",
+    "keywords": "Keywords",
+    "doi": "DOI",
+    "downloadPdf": "Download PDF",
+    "viewOnline": "View Online"
+  },
+  "skills": {
+    "title": "Skills",
+    "subtitle": "Professional competencies and technical toolkit",
+    "categories": {
+      "research": "Research & Writing",
+      "methodology": "Research Methods",
+      "software": "Software & Tools",
+      "interpersonal": "Interpersonal"
+    },
+    "levels": {
+      "beginner": "Beginner",
+      "elementary": "Elementary",
+      "intermediate": "Intermediate",
+      "advanced": "Advanced",
+      "expert": "Expert"
+    }
+  },
+  "languages": {
+    "title": "Languages",
+    "subtitle": "Multilingual communication in research and professional settings",
+    "cefr": "CEFR Framework",
+    "cefrDesc": "The Common European Framework of Reference for Languages (CEFR) defines six levels of proficiency from A1 (beginner) to C2 (mastery).",
+    "native": "Native Speaker"
+  },
+  "certificates": {
+    "title": "Certifications",
+    "subtitle": "Professional development and continuing education",
+    "filter": "Filter by category",
+    "issued": "Issued",
+    "verify": "Verify Certificate"
+  },
+  "volunteering": {
+    "title": "Volunteering",
+    "subtitle": "Community engagement and civic commitment",
+    "impact": "Impact",
+    "skills": "Skills"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What colleagues, supervisors, and partners say"
+  },
+  "stats": {
+    "yearsStudy": "Years of Study",
+    "researchProjects": "Research Projects",
+    "publications": "Publications",
+    "languagesSpoken": "Languages Spoken",
+    "volunteerHours": "Volunteer Hours"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Research insights, policy commentary, and academic reflections",
+    "readMore": "Read Article",
+    "readingTime": "{{count}} min read",
+    "categories": "Categories",
+    "allPosts": "All Posts",
+    "featured": "Featured"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Open to research collaborations, project roles, and consulting engagements across Germany and Europe.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending…",
+      "success": "Your message has been sent. I will get back to you within two business days.",
+      "error": "Something went wrong. Please try again or email me directly.",
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "minLength": "Message must be at least 20 characters"
+    },
+    "info": {
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "linkedin": "LinkedIn",
+      "orcid": "ORCID",
+      "researchGate": "ResearchGate",
+      "googleScholar": "Google Scholar"
+    },
+    "availability": "Currently open to new opportunities — Berlin-based & remote-friendly."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "built": "Built with",
+    "quickLinks": "Quick Links",
+    "connect": "Connect",
+    "legal": "Legal",
+    "imprint": "Imprint",
+    "privacy": "Privacy Policy"
+  },
+  "common": {
+    "present": "present",
+    "downloadCv": "Download CV",
+    "learnMore": "Learn More",
+    "viewProject": "View Project",
+    "backToTop": "Back to Top",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode",
+    "language": "Language",
+    "skipToContent": "Skip to main content",
+    "loading": "Loading…",
+    "noResults": "No results found.",
+    "openExternalLink": "Opens in new tab"
+  }
+}
