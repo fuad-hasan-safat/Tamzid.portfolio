@@ -9,6 +9,7 @@ import { TESTIMONIALS } from '../../config/testimonials.data';
   changeDetection: ChangeDetectionStrategy.OnPush,
   imports: [TranslocoPipe, LucideQuote, LucideChevronLeft, LucideChevronRight],
   template: `
+    @if (testimonials.length > 0) {
     <section class="section-py bg-white dark:bg-slate-950" aria-labelledby="testimonials-heading">
       <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
 
@@ -66,6 +67,7 @@ import { TESTIMONIALS } from '../../config/testimonials.data';
         </div>
       </div>
     </section>
+    }
   `,
 })
 export class TestimonialsComponent {
