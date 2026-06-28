@@ -1,48 +1,40 @@
 import { Skill } from '../core/models';
 
 export const SKILLS: Skill[] = [
-  // Research
-  { id: 'qual-research',   name: 'Qualitative Research',    level: 'expert',        percent: 95, category: 'research'       },
-  { id: 'quant-research',  name: 'Quantitative Research',   level: 'advanced',      percent: 80, category: 'research'       },
-  { id: 'survey-design',   name: 'Survey Design',           level: 'advanced',      percent: 82, category: 'research'       },
-  { id: 'policy-analysis', name: 'Policy Analysis',         level: 'advanced',      percent: 88, category: 'research'       },
-  { id: 'academic-writing',name: 'Academic Writing',        level: 'expert',        percent: 93, category: 'research'       },
-  { id: 'grant-writing',   name: 'Grant Writing',           level: 'intermediate',  percent: 70, category: 'research'       },
-  { id: 'lit-review',      name: 'Literature Review',       level: 'expert',        percent: 92, category: 'research'       },
-  { id: 'data-analysis',   name: 'Data Analysis',           level: 'advanced',      percent: 82, category: 'methodology'    },
-
-  // Methodology
-  { id: 'interviews',      name: 'Semi-structured Interviews', level: 'expert',     percent: 95, category: 'methodology'    },
-  { id: 'focus-groups',    name: 'Focus Groups',            level: 'advanced',      percent: 85, category: 'methodology'    },
-  { id: 'ethnography',     name: 'Ethnography',             level: 'intermediate',  percent: 72, category: 'methodology'    },
-  { id: 'content-analysis',name: 'Content Analysis',        level: 'advanced',      percent: 84, category: 'methodology'    },
-  { id: 'm-e',             name: 'Monitoring & Evaluation', level: 'advanced',      percent: 80, category: 'methodology'    },
-
   // Software
-  { id: 'maxqda',    name: 'MAXQDA',      level: 'advanced',     percent: 88, category: 'software' },
-  { id: 'atlasti',   name: 'Atlas.ti',    level: 'advanced',     percent: 82, category: 'software' },
-  { id: 'nvivo',     name: 'NVivo',       level: 'intermediate', percent: 65, category: 'software' },
-  { id: 'spss',      name: 'SPSS',        level: 'advanced',     percent: 80, category: 'software' },
-  { id: 'r-lang',    name: 'R',           level: 'intermediate', percent: 68, category: 'software' },
-  { id: 'python',    name: 'Python',      level: 'elementary',   percent: 45, category: 'software' },
-  { id: 'excel',     name: 'Excel',       level: 'advanced',     percent: 85, category: 'software' },
-  { id: 'powerbi',   name: 'Power BI',    level: 'intermediate', percent: 65, category: 'software' },
-  { id: 'miro',      name: 'Miro',        level: 'advanced',     percent: 80, category: 'software' },
-  { id: 'notion',    name: 'Notion',      level: 'advanced',     percent: 88, category: 'software' },
-  { id: 'jira',      name: 'Jira',        level: 'intermediate', percent: 72, category: 'software' },
+  { id: 'excel',        name: 'MS Excel',                  level: 'advanced',     percent: 90, category: 'software' },
+  { id: 'word',         name: 'MS Word',                   level: 'advanced',     percent: 85, category: 'software' },
+  { id: 'powerpoint',   name: 'MS PowerPoint',             level: 'advanced',     percent: 85, category: 'software' },
+  { id: 'google-sheet', name: 'Google Sheets',             level: 'advanced',     percent: 82, category: 'software' },
+  { id: 'sap',          name: 'SAP / Tally ERP',           level: 'intermediate', percent: 72, category: 'software' },
+  { id: 'slack',        name: 'Slack',                     level: 'advanced',     percent: 80, category: 'software' },
 
-  // Interpersonal
-  { id: 'presentation', name: 'Presentations',      level: 'advanced',  percent: 87, category: 'interpersonal' },
-  { id: 'stakeholders', name: 'Stakeholder Mgmt',   level: 'advanced',  percent: 85, category: 'interpersonal' },
-  { id: 'proj-mgmt',    name: 'Project Management', level: 'advanced',  percent: 82, category: 'interpersonal' },
-  { id: 'teamwork',     name: 'Teamwork',            level: 'expert',    percent: 93, category: 'interpersonal' },
-  { id: 'communication',name: 'Communication',       level: 'expert',    percent: 92, category: 'interpersonal' },
-  { id: 'mentoring',    name: 'Mentoring',           level: 'advanced',  percent: 80, category: 'interpersonal' },
+  // Accounting & Controlling
+  { id: 'financial-forecast',  name: 'Financial Forecasting',      level: 'advanced',     percent: 82, category: 'accounting' },
+  { id: 'perf-mgmt',           name: 'Performance Management',     level: 'advanced',     percent: 83, category: 'accounting' },
+  { id: 'kpis',                name: 'KPI Monitoring & Reporting',  level: 'advanced',     percent: 85, category: 'accounting' },
+  { id: 'fin-statements',      name: 'Financial Statements',       level: 'intermediate', percent: 75, category: 'accounting' },
+  { id: 'budgeting',           name: 'Master Budgeting',           level: 'advanced',     percent: 80, category: 'accounting' },
+  { id: 'inventory-mgmt',      name: 'Inventory Management',       level: 'advanced',     percent: 88, category: 'accounting' },
+  { id: 'payroll',             name: 'Payroll Calculation',        level: 'intermediate', percent: 72, category: 'accounting' },
+  { id: 'bank-recon',          name: 'Bank Reconciliation',        level: 'advanced',     percent: 80, category: 'accounting' },
+  { id: 'variance-analysis',   name: 'Variance Analysis',         level: 'intermediate', percent: 70, category: 'accounting' },
+  { id: 'ratio-analysis',      name: 'Ratio Analysis',            level: 'intermediate', percent: 70, category: 'accounting' },
+  { id: 'agile-pm',            name: 'Agile Project Management',  level: 'intermediate', percent: 68, category: 'accounting' },
+
+  // Soft Skills
+  { id: 'time-mgmt',    name: 'Time Management',      level: 'expert',   percent: 92, category: 'soft' },
+  { id: 'teamwork',     name: 'Team-oriented',        level: 'expert',   percent: 93, category: 'soft' },
+  { id: 'proactive',    name: 'Proactive',             level: 'expert',   percent: 90, category: 'soft' },
+  { id: 'detail',       name: 'Detail-oriented',      level: 'advanced', percent: 88, category: 'soft' },
+  { id: 'decision',     name: 'Decision Making',      level: 'advanced', percent: 85, category: 'soft' },
+  { id: 'multitask',    name: 'Multi-tasking',        level: 'advanced', percent: 87, category: 'soft' },
+  { id: 'self-reliant', name: 'Self-reliant',         level: 'advanced', percent: 85, category: 'soft' },
+  { id: 'fast-learner', name: 'Fast Learner',         level: 'advanced', percent: 88, category: 'soft' },
 ];
 
 export const SKILL_CATEGORIES = [
-  { id: 'research',      label: 'Research & Writing'  },
-  { id: 'methodology',   label: 'Research Methods'    },
-  { id: 'software',      label: 'Software & Tools'    },
-  { id: 'interpersonal', label: 'Interpersonal'       },
+  { id: 'software',    label: 'Software & Tools'         },
+  { id: 'accounting',  label: 'Accounting & Controlling' },
+  { id: 'soft',        label: 'Soft Skills'              },
 ];

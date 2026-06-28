@@ -22,8 +22,8 @@ export interface Education {
   field: string;
   institution: string;
   location: string;
-  startYear: number;
-  endYear: number | 'present';
+  startYear: number | null;
+  endYear: number | 'present' | null;
   grade?: string;
   supervisor?: string;
   thesis?: string;
@@ -84,7 +84,7 @@ export interface Skill {
   name: string;
   level: SkillLevel;
   percent: number;
-  category: 'research' | 'software' | 'interpersonal' | 'methodology';
+  category: 'research' | 'software' | 'interpersonal' | 'methodology' | 'accounting' | 'soft';
 }
 
 export type CefrLevel = 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2' | 'native';

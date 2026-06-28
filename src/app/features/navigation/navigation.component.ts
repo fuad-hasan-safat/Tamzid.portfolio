@@ -42,7 +42,7 @@ const NAV_ITEMS: NavItem[] = [
             class="flex flex-col leading-none group"
             aria-label="Go to top">
             <span class="font-heading font-bold text-[15px] tracking-tight text-slate-900 dark:text-slate-100 group-hover:text-blue-600 transition-colors">
-              Tamjid Hossain
+              Tamzid Hossain
             </span>
             <span class="text-[11px] text-slate-500 dark:text-slate-400 font-medium tracking-wide">
               MA Sociology · FU Berlin

@@ -31,26 +31,26 @@
   },
   "about": {
     "title": "Über mich",
-    "subtitle": "Soziologe · Forscher · Policy-Analyst",
-    "summary": "Ich bin Absolvent der Soziologie an der Freien Universität Berlin mit fundierter Expertise in sozialwissenschaftlicher Forschung, Politikanalyse und gesellschaftlichem Engagement. Meine akademische Arbeit konzentriert sich auf Migration, Integration, soziale Ungleichheit und das Zusammenspiel von Politik und gelebter Erfahrung.",
-    "academic": "Akademisch interessieren mich Fragen der Zugehörigkeit, der gesellschaftlichen Teilhabe und der strukturellen Bedingungen, die individuelle Lebensverläufe prägen – insbesondere für Migrant:innen, Geflüchtete und Minderheitsgemeinschaften im heutigen Deutschland und Europa.",
-    "career": "Ich strebe danach, meine Expertise in einer angewandten Forschungs-, Koordinations- oder HR- & Diversitätsfunktion bei einem Think Tank, einer internationalen Organisation, Universität, NGO oder öffentlichen Institution einzubringen.",
-    "values": "Ich glaube an rigorose, ethische und zugängliche Forschung. Ich setze mich dafür ein, disziplinen- und kulturübergreifend zu arbeiten, unterrepräsentierte Stimmen sichtbar zu machen und Arbeit zu leisten, die sowohl wissenschaftlich fundiert als auch praktisch relevant ist.",
+    "subtitle": "Assistant Manager · Operations-Fachkraft · MA Soziologie",
+    "summary": "Ich bin eine erfahrene Fachkraft im Bereich Operations und Retail-Management in Berlin und arbeite derzeit als Assistant Manager bei InterSport Voswinkel GmbH. Ich habe einen Master of Arts in Soziologie (Europäische Gesellschaften) von der Freien Universität Berlin, der mir eine starke analytische Grundlage neben meiner praktischen Berufserfahrung gibt.",
+    "academic": "Mein Hintergrund umfasst Retail-Operations, Lagerverwaltung, Teamführung und Finanzcontrolling. Ich habe in Deutschland und Bangladesch in verschiedenen Rollen gearbeitet – von Account-Management über Produktion bis hin zum Filialmanagement.",
+    "career": "Ich bin offen für neue Möglichkeiten in den Bereichen Operations-Management, Retail-Führung, Administration oder Positionen, die analytische und zwischenmenschliche Fähigkeiten verbinden.",
+    "values": "Ich schätze Effizienz, klare Kommunikation und Teamarbeit. Ich bin proaktiv, selbstständig und engagiert für kontinuierliche Verbesserung – sowohl in den Prozessen, die ich verwalte, als auch in meiner eigenen beruflichen Entwicklung.",
     "expertise": "Kernkompetenzen",
     "expertiseItems": [
-      "Sozialwissenschaftliche Forschungsdesigns",
-      "Politikanalyse & -schreiben",
-      "Migration & Integration",
-      "Diversity & Inclusion",
-      "Monitoring & Evaluation",
-      "Stakeholder-Management",
-      "Akademisches & Antragschreiben",
+      "Filial- & Operations-Management",
+      "SAP & Lagersysteme",
+      "Teamführung & Mitarbeiteraufsicht",
+      "Verkauf & Kundenservice",
+      "Finanzcontrolling & KPIs",
+      "Kassenverwaltung & POS",
+      "Prozessoptimierung",
       "Interkulturelle Kommunikation"
     ]
   },
   "education": {
     "title": "Ausbildung",
-    "subtitle": "Akademische Ausbildung an der Freien Universität Berlin",
+    "subtitle": "Akademischer Werdegang",
     "thesis": "Masterarbeit",
     "supervisor": "Betreuung",
     "grade": "Note",
@@ -112,10 +112,9 @@
     "title": "Fähigkeiten",
     "subtitle": "Berufliche Kompetenzen und technisches Repertoire",
     "categories": {
-      "research": "Forschung & Schreiben",
-      "methodology": "Forschungsmethoden",
       "software": "Software & Tools",
-      "interpersonal": "Soziale Kompetenzen"
+      "accounting": "Buchhaltung & Controlling",
+      "soft": "Soziale Kompetenzen"
     },
     "levels": {
       "beginner": "Anfänger",
@@ -150,10 +149,10 @@
     "subtitle": "Was Kolleg:innen, Betreuer:innen und Partner sagen"
   },
   "stats": {
-    "yearsStudy": "Jahre Studium",
-    "researchProjects": "Forschungsprojekte",
-    "publications": "Publikationen",
-    "languagesSpoken": "Gesprochene Sprachen",
+    "yearsStudy": "Jahre Berufserfahrung",
+    "researchProjects": "Unternehmen",
+    "publications": "Gesprochene Sprachen",
+    "languagesSpoken": "Länder",
     "volunteerHours": "Ehrenamtsstunden"
   },
   "blog": {
@@ -167,7 +166,7 @@
   },
   "contact": {
     "title": "Kontakt aufnehmen",
-    "subtitle": "Offen für Forschungskooperationen, Projektstellen und Beratungsmandate in Deutschland und Europa.",
+    "subtitle": "Offen für Management-, Operations- und Verwaltungspositionen in Berlin und Deutschland.",
     "form": {
       "name": "Vollständiger Name",
       "email": "E-Mail-Adresse",
@@ -190,7 +189,7 @@
       "researchGate": "ResearchGate",
       "googleScholar": "Google Scholar"
     },
-    "availability": "Aktuell offen für neue Stellen – Berlin-basiert & remote-freundlich."
+    "availability": "Aktuell offen für neue Stellen – Berlin-basiert."
   },
   "footer": {
     "rights": "Alle Rechte vorbehalten.",

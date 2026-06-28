@@ -2,11 +2,19 @@ import { Language } from '../core/models';
 
 export const LANGUAGES: Language[] = [
   {
-    code: 'de',
-    name: 'German',
-    nativeName: 'Deutsch',
-    level: 'C2',
-    cefrLabel: 'Proficient User — Mastery',
+    code: 'bn',
+    name: 'Bengali',
+    nativeName: 'বাংলা',
+    level: 'native',
+    cefrLabel: 'Native / Mother Tongue',
+    percent: 100,
+  },
+  {
+    code: 'hi',
+    name: 'Hindi',
+    nativeName: 'हिन्दी',
+    level: 'native',
+    cefrLabel: 'Native / Mother Tongue',
     percent: 100,
   },
   {
@@ -18,20 +26,12 @@ export const LANGUAGES: Language[] = [
     percent: 88,
   },
   {
-    code: 'bn',
-    name: 'Bengali',
-    nativeName: 'বাংলা',
-    level: 'native',
-    cefrLabel: 'Native / Mother Tongue',
-    percent: 100,
-  },
-  {
-    code: 'fr',
-    name: 'French',
-    nativeName: 'Français',
-    level: 'B1',
-    cefrLabel: 'Independent User — Intermediate',
-    percent: 52,
+    code: 'de',
+    name: 'German',
+    nativeName: 'Deutsch',
+    level: 'A2',
+    cefrLabel: 'Basic User — Elementary',
+    percent: 25,
   },
 ];
 

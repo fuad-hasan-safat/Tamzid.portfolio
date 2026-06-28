@@ -17,18 +17,18 @@ export class MetaService {
   private readonly title = inject(Title);
 
   private readonly defaults: MetaConfig = {
-    title: 'Tamjid Hossain — MA Sociology | Freie Universität Berlin',
-    description: 'Research-driven sociology graduate specialising in migration, integration, policy analysis, diversity & evidence-based decision making. Berlin-based, open to work.',
-    keywords: 'sociology, migration, integration, policy analysis, social research, Berlin, Germany, Freie Universität',
+    title: 'Tamzid Hossain — Assistant Manager | Berlin',
+    description: 'Operations & Retail Management professional with an MA in Sociology from FU Berlin. Experienced in team leadership, SAP, and inventory management. Berlin-based, open to work.',
+    keywords: 'Tamzid Hossain, Assistant Manager, Operations Management, Retail, SAP, Inventory, Berlin, MA Sociology',
     image: '/images/og-image.jpg',
-    url: 'https://tamjid-hossain.de',
+    url: 'https://tamzid-hossain.de',
     type: 'website',
   };
 
   setPage(config: Partial<MetaConfig>): void {
     const merged = { ...this.defaults, ...config };
     const fullTitle = config.title
-      ? `${config.title} | Tamjid Hossain`
+      ? `${config.title} | Tamzid Hossain`
       : this.defaults.title!;
 
     this.title.setTitle(fullTitle);
@@ -42,7 +42,7 @@ export class MetaService {
     this.meta.updateTag({ property: 'og:image', content: merged.image! });
     this.meta.updateTag({ property: 'og:url', content: merged.url! });
     this.meta.updateTag({ property: 'og:type', content: merged.type! });
-    this.meta.updateTag({ property: 'og:site_name', content: 'Tamjid Hossain' });
+    this.meta.updateTag({ property: 'og:site_name', content: 'Tamzid Hossain' });
 
     // Twitter Cards
     this.meta.updateTag({ name: 'twitter:card', content: 'summary_large_image' });

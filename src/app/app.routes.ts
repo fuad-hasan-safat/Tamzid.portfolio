@@ -4,7 +4,7 @@ export const routes: Routes = [
   {
     path: '',
     loadComponent: () => import('./pages/home/home.component').then(m => m.HomeComponent),
-    title: 'Tamjid Hossain — MA Sociology | Freie Universität Berlin',
+    title: 'Tamzid Hossain — Assistant Manager | Berlin',
   },
   {
     path: 'blog/:slug',

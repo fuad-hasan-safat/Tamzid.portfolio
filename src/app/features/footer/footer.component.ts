@@ -28,7 +28,7 @@ const NAV_SECTIONS = [
 
           <!-- Brand -->
           <div class="md:col-span-2">
-            <div class="font-heading font-bold text-lg text-slate-900 dark:text-slate-100 mb-1">Tamjid Hossain</div>
+            <div class="font-heading font-bold text-lg text-slate-900 dark:text-slate-100 mb-1">Tamzid Hossain</div>
             <p class="text-sm text-slate-500 dark:text-slate-400 mb-1">MA Sociology · Freie Universität Berlin</p>
             <p class="text-sm text-slate-400 dark:text-slate-500 mb-5">{{ profile.location }}</p>
             <div class="flex items-center gap-2">
@@ -104,7 +104,7 @@ const NAV_SECTIONS = [
 
       <div class="border-t border-slate-100 dark:border-slate-900">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex flex-col sm:flex-row items-center justify-between gap-3">
-          <p class="text-[12.5px] text-slate-400 dark:text-slate-600">© {{ year }} Tamjid Hossain. {{ 'footer.rights' | transloco }}</p>
+          <p class="text-[12.5px] text-slate-400 dark:text-slate-600">© {{ year }} Tamzid Hossain. {{ 'footer.rights' | transloco }}</p>
           <p class="text-[12.5px] text-slate-400 dark:text-slate-600">{{ 'footer.built' | transloco }} Angular 21 · Tailwind CSS v4</p>
         </div>
       </div>

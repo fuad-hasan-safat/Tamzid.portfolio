@@ -31,26 +31,26 @@
   },
   "about": {
     "title": "About Me",
-    "subtitle": "Sociologist · Researcher · Policy Analyst",
-    "summary": "I am a graduate sociologist from Freie Universität Berlin with a strong foundation in social research, policy analysis, and community engagement. My academic work focuses on migration, integration, social inequality, and the intersection of policy with lived experience.",
-    "academic": "Academically, I am drawn to questions of belonging, civic participation, and how structural conditions shape individual trajectories — particularly for migrants, refugees, and minority communities in contemporary Germany and Europe.",
-    "career": "I aspire to contribute my expertise in an applied research, policy coordination, or HR & diversity role within a think tank, international organisation, university, NGO, or public institution where evidence-based thinking genuinely shapes outcomes.",
-    "values": "I believe in rigorous, ethical, and accessible research. I am committed to working across disciplinary and cultural boundaries, to elevating underrepresented voices, and to producing work that is both intellectually sound and practically relevant.",
-    "expertise": "Areas of Expertise",
+    "subtitle": "Assistant Manager · Operations Professional · MA Sociology",
+    "summary": "I am an operations and retail management professional based in Berlin, currently working as Assistant Manager at InterSport Voswinkel GmbH. I hold a Master of Arts in Sociology (European Societies) from Freie Universität Berlin, which gives me a strong analytical foundation alongside my practical business experience.",
+    "academic": "My background spans retail operations, inventory management, team leadership, and financial controlling. I have worked across Germany and Bangladesh in roles covering account management, production, and store operations — building a broad and adaptable professional skill set.",
+    "career": "I am open to new opportunities in operations management, retail leadership, administration, or roles that combine analytical and interpersonal skills. I bring a detail-oriented, process-driven approach and thrive in multicultural, fast-paced environments.",
+    "values": "I value efficiency, clear communication, and teamwork. I am proactive, self-reliant, and committed to continuous improvement — both in the processes I manage and in my own professional development.",
+    "expertise": "Key Competencies",
     "expertiseItems": [
-      "Social Research Design",
-      "Policy Analysis & Writing",
-      "Migration & Integration",
-      "Diversity & Inclusion",
-      "Monitoring & Evaluation",
-      "Stakeholder Engagement",
-      "Academic & Grant Writing",
-      "Intercultural Communication"
+      "Store & Operations Management",
+      "SAP & Inventory Systems",
+      "Team Leadership & Supervision",
+      "Sales & Customer Service",
+      "Financial Controlling & KPIs",
+      "Cash Management & POS",
+      "Process Optimisation",
+      "Multicultural Communication"
     ]
   },
   "education": {
     "title": "Education",
-    "subtitle": "Academic training at Freie Universität Berlin",
+    "subtitle": "Academic background",
     "thesis": "Master's Thesis",
     "supervisor": "Supervisor",
     "grade": "Grade",
@@ -112,10 +112,9 @@
     "title": "Skills",
     "subtitle": "Professional competencies and technical toolkit",
     "categories": {
-      "research": "Research & Writing",
-      "methodology": "Research Methods",
       "software": "Software & Tools",
-      "interpersonal": "Interpersonal"
+      "accounting": "Accounting & Controlling",
+      "soft": "Soft Skills"
     },
     "levels": {
       "beginner": "Beginner",
@@ -150,10 +149,10 @@
     "subtitle": "What colleagues, supervisors, and partners say"
   },
   "stats": {
-    "yearsStudy": "Years of Study",
-    "researchProjects": "Research Projects",
-    "publications": "Publications",
-    "languagesSpoken": "Languages Spoken",
+    "yearsStudy": "Years of Experience",
+    "researchProjects": "Companies Worked",
+    "publications": "Languages Spoken",
+    "languagesSpoken": "Countries",
     "volunteerHours": "Volunteer Hours"
   },
   "blog": {
@@ -167,7 +166,7 @@
   },
   "contact": {
     "title": "Get in Touch",
-    "subtitle": "Open to research collaborations, project roles, and consulting engagements across Germany and Europe.",
+    "subtitle": "Open to management, operations, and administrative roles across Berlin and Germany.",
     "form": {
       "name": "Full Name",
       "email": "Email Address",
@@ -190,7 +189,7 @@
       "researchGate": "ResearchGate",
       "googleScholar": "Google Scholar"
     },
-    "availability": "Currently open to new opportunities — Berlin-based & remote-friendly."
+    "availability": "Currently open to new opportunities — Berlin-based."
   },
   "footer": {
     "rights": "All rights reserved.",
